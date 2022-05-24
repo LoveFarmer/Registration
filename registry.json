@@ -5096,5 +5096,19 @@
    "telegram": "wafflepool",
    "operatorName": "",
    "github": ""
- }
+ },
+  {
+    "ticker": "GREAT",                                                       
+    "poolId": "fa8b96740590a9638e8b548ca07992c776efda3ea56f50f8d99bf73d", 
+    "social": {                                                            
+      "twitter": "TheLoveFarmer",
+      "website": "greatstakepool.com",
+      "facebook": "",  
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "TheLoveFarmer",                                          
+    "operatorName": "The Great Stake Pool",                                   
+    "github": "LoveFarmer" 
+  }
 ]
